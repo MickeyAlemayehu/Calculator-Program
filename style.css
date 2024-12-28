@@ -1,0 +1,63 @@
+.box{
+    margin: auto;
+    text-align: center;
+    width:270px;
+    height:390px;
+    border: none;
+    background-color: black;
+    border-radius: 10px;
+    margin-top: 70px;
+}
+#display{
+    padding-left: 20px;
+    width: 248px;
+    height: 80px;
+    border: none;
+    background-color: grey;
+    color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    font-size: 22px;
+    font-weight: bold;
+
+}
+.orange{
+    border-radius: 25px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    background-color: orange;
+    color: white;
+    border: none;
+    font-size: 22px;
+    font-weight: bold;
+    margin: 3px;
+    
+}
+.black{
+    border-radius: 25px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    background-color: rgb(94, 94, 94);
+    color: white;
+    border: none;
+    font-size: 22px;
+    font-weight: bold;
+    margin: 3px;
+    
+}
+#C{
+    float: left;
+    margin-left: 20px;
+}
+
+.orange:hover{
+    background-color: rgb(247, 122, 5);
+}
+.black:hover{
+    background-color: rgb(54, 54, 54);
+}
+.innerBox{
+    padding-top: 10px;
+}
